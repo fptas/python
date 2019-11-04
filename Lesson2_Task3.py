@@ -17,3 +17,4 @@ while not (1 <= n <= 12):
 
 print(f"Список: {my_list[n-1]}")
 print(f"Справочник: {my_dict[n]}")
+

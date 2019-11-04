@@ -10,3 +10,4 @@ for el in words:
     print(f'{kk}: {el[:10]}')
     kk += 1
 
+

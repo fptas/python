@@ -8,3 +8,4 @@ while i < (l - l % 2):
     i += 2
 print(my_list)
 
+

@@ -39,3 +39,4 @@ while not isexit:
             i += 1
 
 print(f'\n\nРезультат: {my_list}')
+
